@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pamarthi Sai Kumar</h1>
+<h1 align="center">Hi , I'm Pamarthi Sai Kumar</h1>
 <h3 align="center">A passionate frontend developer and Analyst from India</h3>
 
 - 🔭 I’m currently working on **Web site portfolio**
