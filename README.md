@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pamarthisaikumar3545/pamarthisaikumar3545/projects?query=is%3Aopen](https://github.com/pamarthisaikumar3545?tab=repositories)
+- 👨‍💻 All of my projects are available at [My projects(repositories)](https://github.com/pamarthisaikumar3545?tab=repositories)
 
 - 💬 Ask me about **Python,Front-end development,Database**
 
