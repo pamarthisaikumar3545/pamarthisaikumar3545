@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **saipamarthi213@gmail.com**
 
-- 📄 Know about my experiences [http://127.0.0.1:5500/RESUME.pdf](http://127.0.0.1:5500/RESUME.pdf)
+- 📄 Know about my experiences [http://127.0.0.1:5500/RESUME.pdf](file:///C:/Users/saipa/Downloads/Pamarthi_Sai_kumar.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
