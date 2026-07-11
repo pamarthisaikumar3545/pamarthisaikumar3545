@@ -1,5 +1,13 @@
 <h1 align="center">Hi , I'm Pamarthi Sai Kumar</h1>
-<h3 align="center">A passionate Software Developer and Engineer from India</h3>
+<h3 align="center">I’m Pamarthi Sai Kumar, a Computer Science Engineering student at SRM University AP passionate about full-stack web development, artificial intelligence, and building scalable, user-centric software solutions.
+
+My technical skills include C/C++, Python, JavaScript, HTML, CSS, React.js, Node.js, Express.js, MongoDB, MySQL, Bootstrap, Git, and GitHub, along with Power BI and Tableau. I have a strong foundation in Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Software Engineering.
+
+During my virtual internship at North-Chiang Mai University (NSMU), I worked as a Front-End Developer on the AI Mini Agents project, developing responsive interfaces and integrating Razorpay payment functionality. I have also built projects such as a MERN Stack Hostel Management System and a Voice-Based AI Assistant, strengthening my skills in full-stack development and AI applications.
+
+I enjoy solving real-world problems, collaborating with teams, and continuously learning new technologies. I'm always open to connecting with professionals, collaborating on innovative projects, and exploring opportunities to grow as a software engineer.
+
+Let's connect and build impactful technology together!</h3>
 
 
 <h3 align="left">Connect with me:</h3>
